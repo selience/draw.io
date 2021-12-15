@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:27:55.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="QlfDmNMeFXE5xilnYRz5" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T08:36:28.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="G0_SglqhTvxgPfHPya2l" version="15.9.6" type="github">
   <diagram id="TeIEPSbulT25f1bXOIrF" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="Tcoui-donRjjzlfroZZs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Tcoui-donRjjzlfroZZs-12" target="Tcoui-donRjjzlfroZZs-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-12" value="Model" style="html=1;" vertex="1" parent="1">
+        <mxCell id="Tcoui-donRjjzlfroZZs-12" value="View" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
