@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:38:06.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="a14iqc4S82mVU108TY4u" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T10:01:24.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="W9LTWKvlogHVhLWY3KKj" version="15.9.6" type="github">
   <diagram id="TeIEPSbulT25f1bXOIrF" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tcoui-donRjjzlfroZZs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="Tcoui-donRjjzlfroZZs-1" target="Tcoui-donRjjzlfroZZs-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1tmyIqP7h5Oj3jBUB5zD-1" value="本地&lt;br&gt;DNS SERVER&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-1" value="Model" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="1tmyIqP7h5Oj3jBUB5zD-2" value="动态&lt;br&gt;DNS SERVER&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Tcoui-donRjjzlfroZZs-10" target="Tcoui-donRjjzlfroZZs-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1tmyIqP7h5Oj3jBUB5zD-3" value="{&quot;域名&quot;:[ip1, ip2, ip3]},&lt;br&gt;{&quot;域名&quot;:[ip1, ip2, ip3]},&lt;br&gt;{&quot;域名&quot;:[ip1, ip2, ip3]}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-10" value="Repository" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="1tmyIqP7h5Oj3jBUB5zD-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1tmyIqP7h5Oj3jBUB5zD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="290" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-11" value="ViewModel" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Tcoui-donRjjzlfroZZs-12" target="Tcoui-donRjjzlfroZZs-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tcoui-donRjjzlfroZZs-12" value="View" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="1tmyIqP7h5Oj3jBUB5zD-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1tmyIqP7h5Oj3jBUB5zD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
